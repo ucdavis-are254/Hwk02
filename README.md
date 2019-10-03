@@ -1,13 +1,13 @@
 # Getting started
 
-- Download and install Julia
+- Accept this assignment on Github Classroom, and create your team. Clone the forked repository to your computer.
 
-- Fork and clone this `Hwk01` repository to your computer
+- Download and install Julia
 
 - Open Julia and change directory to this repository
 
     ```julia
-    ; cd C:\\Users\\magerton\\Downloads\\hwk01
+    ; cd C:\\Users\\magerton\\Downloads\\this_repo
     ```
 
 - To install the appropriate libraries, activate the environment in the directory and instantiate it to install packages. See [docs](https://docs.julialang.org/en/v1.0/stdlib/Pkg/#Using-someone-else's-project-1)
@@ -26,4 +26,4 @@
 
 - Do the homework
 
-- Submit via github Classroom by issuing a pull request. You can submit as many times as you want before the homework is due
+- Your homework submission will be a copy of your `master` branch when the assignment is due. You can push as many times as you want.
