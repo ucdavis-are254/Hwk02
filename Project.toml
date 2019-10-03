@@ -1,0 +1,12 @@
+name = "Hwk02"
+uuid = "343b1c55-76ff-4b9f-8caf-0958851b589b"
+authors = ["Mark Agerton <mjagerton@ucdavis.edu>"]
+version = "0.0.1"
+
+[deps]
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
